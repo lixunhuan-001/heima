@@ -7,6 +7,8 @@ public class T1 {
                 System.out.print("*"+"\t");
             }
             System.out.println();
+            System.out.println();
+            System.out.println();
         }
     }
 }
